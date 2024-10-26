@@ -24,4 +24,11 @@
       </plugin>
     </plugins>
   </build>
+  <distributionManagement>
+  <repository>
+    <id>mys3-mys3-java-artifacts</id>
+    <name>mys3-mys3-java-artifacts</name>
+    <url>https://mys3-886538946690.d.codeartifact.us-east-1.amazonaws.com/maven/mys3-java-artifacts/</url>
+  </repository>
+  </distributionManagement>
 </project>
